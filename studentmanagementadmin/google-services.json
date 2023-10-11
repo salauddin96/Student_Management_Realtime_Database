@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178275720265",
+    "project_id": "student-management-clien-bc80f",
+    "storage_bucket": "student-management-clien-bc80f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178275720265:android:b2c4b0168e87efd3787398",
+        "android_client_info": {
+          "package_name": "org.techtales.studentmanagementadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUAJUWhoE_cPmnrp18yEsPqwvwoTzmbc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178275720265:android:4d81d8ea40e39207787398",
+        "android_client_info": {
+          "package_name": "org.techtales.studentmanagementclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUAJUWhoE_cPmnrp18yEsPqwvwoTzmbc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
